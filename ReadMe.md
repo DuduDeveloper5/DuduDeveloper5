@@ -1,5 +1,5 @@
 # 🚀 About Me:
-🇧🇷 : Meu nome é Lucas, venho desenvolvendo projetos desde 2022 e pretendo fazer faculdade de engenharia de software para me aprimorar no ramo tecnológico, comecei com a linguagem .Lua, agora venho desenvolvendo em Html/Css e estudando javascript para entrar no Front-end<br>🇺🇸 : My name is Lucas, I've been developing projects since 2022 and I intend to study software engineering to improve myself in the technological field, starting with the .Lua language, now I've been developing in Html/Css and studying javascript to enter Front- end
+🇧🇷 : Meu nome é Dudu, venho desenvolvendo projetos desde 2022 e pretendo fazer faculdade de engenharia de software para me aprimorar no ramo tecnológico, comecei com a linguagem .Lua, agora venho desenvolvendo em Html/Css e estudando javascript para entrar no Front-end<br>🇺🇸 : My name is Dudu, I've been developing projects since 2022 and I intend to study software engineering to improve myself in the technological field, starting with the .Lua language, now I've been developing in Html/Css and studying javascript to enter Front- end
 
 
 # 💻 Tech Stack:
